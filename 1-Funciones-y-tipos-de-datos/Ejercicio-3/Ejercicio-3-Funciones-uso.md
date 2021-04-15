@@ -41,4 +41,5 @@ Veamos si se entiende; escribí las siguientes funciones:
 - anteriorDelTriple, que combina las dos funciones anteriores: multiplica a un número por 3 y le resta 1 
 
 ```
+[Solucion](./solucion-3.js)
 

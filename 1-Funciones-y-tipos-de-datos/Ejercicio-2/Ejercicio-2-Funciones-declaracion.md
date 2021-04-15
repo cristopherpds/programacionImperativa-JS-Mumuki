@@ -23,3 +23,5 @@ Diferente, pero no tanto. Si la comparás con su equivalente Gobstones...
 ```txt
 Veamos si se va entendiendo: escribí ahora una función JavaScript mitad, que tome un número y devuelva su mitad. Tené en cuenta que el operador de división en JavaScript es /.
 ```
+
+[Solucion](./solucion-2.js)
